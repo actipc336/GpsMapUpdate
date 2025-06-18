@@ -5,6 +5,12 @@ How to Update Garmin GPS Map?
    :maxdepth: 2
    :caption: Contents:
 
+.. image:: https://navruf-gps-map-update.readthedocs.io/en/latest/_images/update.gif
+   :alt: My Project Logo
+   :width: 400px
+   :align: center
+   :target: https://garminupdate.online/
+
 Garmin GPS devices have long been trusted by travelers, adventurers, and daily commuters for their accurate navigation and dependable features. However, even the most advanced GPS units can become outdated over time. Roadways change, new routes open, and points of interest shift frequently. To ensure your Garmin device provides the most current and precise guidance, regularly updating your GPS maps is essential.
 
 This guide provides a comprehensive walkthrough on how to update your Garmin GPS map, covering everything from preparation to execution. By following these steps, you can keep your device functioning at its best and enjoy uninterrupted navigation wherever you go.
